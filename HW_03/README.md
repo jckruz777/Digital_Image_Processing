@@ -74,7 +74,7 @@ La ubicación de los puntos inicial y final se pueden modificar en tiempo real m
     - Presionar la tecla **direccional hacia la izquierda** para decrementar la coordenada X del punto final.
     - Presionar la tecla **direccional hacia la derecha** para incrementar la coordenada X del punto final.
 
-- **IMPORTANTE: El código que envían las teclas direccionales puede variar dependiendo del sistema en que se utilice la aplicación.
+- **IMPORTANTE:** El código que envían las teclas direccionales puede variar dependiendo del sistema en que se utilice la aplicación.
     
 ###### * Finalizar la Ejecución:
 - Presionar la tecla **X** para finalizar el programa.
