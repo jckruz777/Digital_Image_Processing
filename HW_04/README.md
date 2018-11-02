@@ -10,14 +10,14 @@ La descripción del patrón de diseño **funtor** se puede encontrar en la pági
 http://www.ie.tec.ac.cr/palvarado/ltilib-2/html/architecture.html
 
 La aplicación aplica el siguiente mapeo bilineal por defecto:
-![equation](hhttp://latex.codecogs.com/gif.latex?w%3D%5Cfrac%7Baz+b%7D%7Bcz+d%7D) 
+![equation](http://latex.codecogs.com/svg.latex?w%3D%5Cfrac%7Baz%2Bb%7D%7Bcz%2Bd%7D%5C%5C) 
 
 
 Donde:
-![equation](hhttp://latex.codecogs.com/gif.latex?a%3D%5C2,1+2,1j)
-![equation](hhttp://latex.codecogs.com/gif.latex?b%3D%5C0)
-![equation](hhttp://latex.codecogs.com/gif.latex?c%3D%5C0,003)
-![equation](hhttp://latex.codecogs.com/gif.latex?c%3D%5C1+j)
+![equation](http://latex.codecogs.com/gif.latex?a%3D%5C2,1+2,1j)
+![equation](http://latex.codecogs.com/gif.latex?b%3D%5C0)
+![equation](http://latex.codecogs.com/gif.latex?c%3D%5C0,003)
+![equation](http://latex.codecogs.com/gif.latex?c%3D%5C1+j)
 
 ### Prerequisitos
 
