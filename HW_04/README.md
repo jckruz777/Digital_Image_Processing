@@ -10,11 +10,15 @@ La descripción del patrón de diseño **funtor** se puede encontrar en la pági
 http://www.ie.tec.ac.cr/palvarado/ltilib-2/html/architecture.html
 
 La aplicación aplica el siguiente mapeo bilineal por defecto:
+
 ![equation](http://latex.codecogs.com/svg.latex?w%3D%5Cfrac%7Baz%2Bb%7D%7Bcz%2Bd%7D%5C%5C) 
 
 
 Donde:
+
+
 ![equation](http://latex.codecogs.com/svg.latex?a+%3D+2.1%2B2.1j%5C%5C%0D%0Ab+%3D+0%5C%5C%0D%0Ac+%3D+0.003%5C%5C%0D%0Ad+%3D+1%2Bj%5C%5C)
+
 
 ### Prerequisitos
 
