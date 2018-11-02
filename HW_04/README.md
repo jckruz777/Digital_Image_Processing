@@ -14,10 +14,7 @@ La aplicación aplica el siguiente mapeo bilineal por defecto:
 
 
 Donde:
-![equation](http://latex.codecogs.com/gif.latex?a%3D%5C2,1+2,1j)
-![equation](http://latex.codecogs.com/gif.latex?b%3D%5C0)
-![equation](http://latex.codecogs.com/gif.latex?c%3D%5C0,003)
-![equation](http://latex.codecogs.com/gif.latex?c%3D%5C1+j)
+![equation](http://latex.codecogs.com/svg.latex?a+%3D+2.1%2B2.1j%5C%5C%0D%0Ab+%3D+0%5C%5C%0D%0Ac+%3D+0.003%5C%5C%0D%0Ad+%3D+1%2Bj%5C%5C)
 
 ### Prerequisitos
 
